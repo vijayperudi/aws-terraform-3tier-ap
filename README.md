@@ -32,6 +32,6 @@ This project provisions a **3-tier architecture** (Web → App → DB) on AWS us
 
 ---
 
-## 📁 Project Structure
+
 
 
