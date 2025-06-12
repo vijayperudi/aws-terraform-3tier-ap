@@ -8,12 +8,7 @@ This project provisions a **3-tier architecture** (Web → App → DB) on AWS us
 
 ## 📊 Architecture Diagram
 
-
-<p align="center">
-  <img src="![bb32a1fd-806b-4a7a-a5e4-d011fb92f83d](https://github.com/user-attachments/assets/4161209d-c7ee-4203-9b51-0bf3d5722ae4)" width="700"/>
-</p>
-
----
+![bb32a1fd-806b-4a7a-a5e4-d011fb92f83d](https://github.com/user-attachments/assets/4161209d-c7ee-4203-9b51-0bf3d5722ae4)
 
 ## 📦 Features
 
